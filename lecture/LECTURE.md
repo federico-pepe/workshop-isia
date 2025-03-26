@@ -131,7 +131,7 @@ Risorse, progetti interessati e artisti che usano Processing.
 - [On the Origin of Species: The Preservation of Favoured Traces (Ben Fry)](https://benfry.com/traces/)
 - [Understanding Shakespeare (Stephan Thiel)](https://fhp.incom.org/project/1432)
 
-## Artisti ed Esempi che usano il Creative Coding nelle loro opere
+## Artisti ed Esempi di ispirazione
 
 È davvero impossibile stilare una lista esaustiva di artisti ed esempi. L'elenco qui sotto – in ordine alfabetico - è, pertanto, da considerarsi incompleto e non rappresentativo.
 
@@ -141,10 +141,39 @@ Risorse, progetti interessati e artisti che usano Processing.
 - [Casey Reas](https://reas.com)
 - [Christopher Bauder (Darkmatter)](https://derivative.ca/community-post/christopher-bauders-mesmerizing-kinetic-lights-system-soars/60715)
 - [Codice Edizioni](https://www.limiteazero.net/progetti/codice-edizioni)
-  – [Collins SF Symphony](https://www.wearecollins.com/work/sf-symphony/) - [Symphosizer](https://symphosizer.wearecollins.com)
+- [Collins SF Symphony](https://www.wearecollins.com/work/sf-symphony/), [Symphosizer](https://symphosizer.wearecollins.com)
 - [Daniel Catt](https://revdancatt.com)
+- [Dave Whyte (Bees and bombs)](https://beesandbombs.tumblr.com)
+- [Giorgia Lupi](https://giorgialupi.com)
+- [Inside Airbnb](https://insideairbnb.com)
+- [Joanie Lemercier](https://joanielemercier.com)
+- [John Maeda](https://maedastudio.com)
+- [Joshua Davis](https://joshuadavis.com)
+- [Julien Gachadoat](https://www.v3ga.net)
+- [Kjetil Golid](https://generated.space)
+- [Ksawery Kirklewski](https://ksawerykomputery.com/works/)
+- [Kyle McDonald](https://kylemcdonald.net)
+- [Memo Atken](https://www.memo.tv)
+- [Nicholas Felton](https://feltron.com)
+- [Nonotak](https://www.nonotak.com)
+- [Patrik Hübner](https://www.patrik-huebner.com)
+- [Raven Kwok](https://ravenkwok.com)
+- [Refik Anadol](https://refikanadolstudio.com)
+- [Richard The (MIT Media Lab Identity)](https://richardthe.com/projects/medialab)
+- [Saskia Freeke](https://sasj.nl/portfolio/)
+- [The Pudding](https://pudding.cool)
+- [Tundra](https://wearetundra.org)
+- [Tyler Hobbs](https://www.tylerxhobbs.com)
+- [Ultravioletto](https://ultraviolet.to)
+- [Zach Lieberman](http://zach.li)
 
 ## Il futuro del coding e del creative coding (AI e NFT)
+
+### NFT
+
+Gli NFT (Non-Fungible Token) sono beni digitali che esistono su una blockchain, in genere Ethereum, e rappresentano la proprietà di oggetti unici come arte digitale, musica, terreni virtuali e oggetti da collezione.
+
+Le NFT hanno svolto un ruolo fondamentale nel rendere l'arte generativa più visibile e finanziariamente redditizia per gli artisti. Molti artisti che un tempo pubblicavano gratuitamente le loro opere sui social media possono ora monetizzare la loro creatività attraverso gli NFT, esplorando forme d'arte basate su algoritmi e blockchain.
 
 ## Altre risorse e approfondimenti
 
