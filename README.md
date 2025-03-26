@@ -5,7 +5,7 @@ In questo repository puoi trovare esempi e risorse della lecture e del workshop 
 ## Contatti
 
 - 🌍 [Sito web](https://www.federicopepe.com)
-- 📬 Email: federico[at]federicopepe[punto]com
+- 📬 federico[at]federicopepe[punto]com
 - 📸 [Instagram](https://www.instagram.com/fedpep)
 
 <!--
