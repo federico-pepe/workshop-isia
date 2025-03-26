@@ -39,7 +39,7 @@ Nobile e matematica inglese, comunemente considerata la prima programmatrice del
 - [Alan Turing (Wikipedia EN)](https://en.wikipedia.org/wiki/Alan_Turing)
 - [Alan Turin (Torino Scienza)](https://www.torinoscienza.it/personaggi/alan-turing)
 - [Test di Turin (Wikipedia IT)](https://it.wikipedia.org/wiki/Test_di_Turing)
-- [Macchina Enigma (Wikipedia IT)](<https://it.wikipedia.org/wiki/Enigma_(crittografia))
+- [Macchina Enigma (Wikipedia IT)](<https://it.wikipedia.org/wiki/Enigma_(crittografia)>)
 - [The Imitation Game (film)](https://www.imdb.com/title/tt2084970/)
 
 ### Primi computer
@@ -55,8 +55,9 @@ Nobile e matematica inglese, comunemente considerata la prima programmatrice del
 
 ### Primi linguaggi di programmazione
 
-- Linguaggi di programmazione low-level (Machine Language, Assembly) e high-level (C++, Python, ecc)
-  La differenza fondamentale tra linguaggi di alto e basso livello è il loro livello di astrazione. I linguaggi di alto livello sono più leggibili dall'uomo e astraggono dall'hardware, il che li rende più facili da programmare ma meno efficienti, mentre i linguaggi di basso livello sono più vicini al codice macchina e offrono maggiore controllo ed efficienza, ma sono più difficili da programmare.
+Linguaggi di programmazione low-level (Machine Language, Assembly) e high-level (C++, Python, ecc)
+La differenza fondamentale tra linguaggi di alto e basso livello è il loro livello di astrazione. I linguaggi di alto livello sono più leggibili dall'uomo e astraggono dall'hardware, il che li rende più facili da programmare ma meno efficienti, mentre i linguaggi di basso livello sono più vicini al codice macchina e offrono maggiore controllo ed efficienza, ma sono più difficili da programmare.
+
 - [FORTRAN (1957)](https://en.wikipedia.org/wiki/Fortran)
   È un linguaggio di programmazione, compilato e imperativo, particolarmente adatto per il calcolo numerico e la scienza computazionale.
 - [Sketchpad (1963)](https://www.youtube.com/watch?v=fC4nW2o-Rwk)
@@ -112,10 +113,36 @@ Anche se potenzialmente con la programmazione è possibile fare quello che si vu
 - Sol Lewitt (1928 - 2007)
   - [Mass MOCA](https://massmoca.org/sol-lewitt/)
   - [Solving Sol](https://solvingsol.com)
+- John Whitney Sr. (1917 - 1995)
+  - [John Whitney - Experiments in motion graphics 1968 - Generative graphics (YouTube)](https://www.youtube.com/watch?v=jIv-EcX9tUs)
 
 ## Processing
 
-## Artisti ed Esempi
+Risorse, progetti interessati e artisti che usano Processing.
+
+- [Processing Sito Ufficiale](https://www.processing.org)
+- [Open Processing](https://openprocessing.org)
+- [Jer Thorp](https://www.jerthorp.me)
+- [Cascade New York Times (Jer Thorp)](https://nytlabs.com/projects/cascade.html)
+- [Kepler Visualization (Jer Thorp)](https://github.com/blprnt/Kepler-Visualization)
+- [Continuum Fashion (Mary Huang)](https://continuumfashion.com/index.php)
+- [City Symphonies (Mark Mckeague)](https://markmckeague.com/work/city-symphonies)
+- [Strata #4 (Quayola)](https://quayola.com/strata-4/)
+- [On the Origin of Species: The Preservation of Favoured Traces (Ben Fry)](https://benfry.com/traces/)
+- [Understanding Shakespeare (Stephan Thiel)](https://fhp.incom.org/project/1432)
+
+## Artisti ed Esempi che usano il Creative Coding nelle loro opere
+
+È davvero impossibile stilare una lista esaustiva di artisti ed esempi. L'elenco qui sotto – in ordine alfabetico - è, pertanto, da considerarsi incompleto e non rappresentativo.
+
+- [Amy GoodChild](https://www.amygoodchild.com/art)
+- [BasilJS](https://basiljs2.netlify.app)
+- [Ben Fry](https://benfry.com)
+- [Casey Reas](https://reas.com)
+- [Christopher Bauder (Darkmatter)](https://derivative.ca/community-post/christopher-bauders-mesmerizing-kinetic-lights-system-soars/60715)
+- [Codice Edizioni](https://www.limiteazero.net/progetti/codice-edizioni)
+  – [Collins SF Symphony](https://www.wearecollins.com/work/sf-symphony/) - [Symphosizer](https://symphosizer.wearecollins.com)
+- [Daniel Catt](https://revdancatt.com)
 
 ## Il futuro del coding e del creative coding (AI e NFT)
 
