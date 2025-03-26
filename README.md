@@ -1,6 +1,6 @@
-# Workshop Creative Coding ISIA Urbino
+# Lecture e Workshop: Processing e il Generative Design per l'Editoria
 
-In questo repository puoi trovare esempi e risorse utilizzate durante il **Workshop di Creative Coding** tenuto all'ISIA di Urbino a marzo del 2025 per gli studenti del secondo anno del corso _Comunicazione e Design per l'Editoria_.
+In questo repository puoi trovare esempi e risorse della lecture e del workshop **Processing e il Generative Design per l'Editoria** curato da _Valentina Rachiele_ e tenuto da _Federico Pepe_ all'ISIA di Urbino dal 24 al 28 marzo del 2025 per gli studenti del secondo anno del corso _Comunicazione e Design per l'Editoria_.
 
 ## Indice
 
