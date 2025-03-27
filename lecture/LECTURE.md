@@ -2,12 +2,12 @@
 
 In questo file potete trovare tutti i riferimenti che ho utilizzato per la lecture di presentazione del workshop e i relativi link per approfondire. Il contenuto della lecture è stato diviso in sei macro-aree:
 
-1. I fondamenti di informatica e programmazione
-2. Le differenze tra coding e creative coding
-3. Storia del creative coding
-4. Processing
-5. Artisti ed esempi
-6. Il futuro del coding e del creative coding (AI e NFT)
+1. [I fondamenti di informatica e programmazione](#fondamenti-di-informatica-e-programmazione)
+2. [Le differenze tra coding e creative coding](#differenze-tra-coding-e-creative-coding)
+3. [Storia del creative coding](#storia-del-creative-coding)
+4. [Processing](#processing)
+5. [Artisti ed esempi](#artisti-ed-esempi-di-ispirazione)
+6. [Il futuro del coding e del creative coding (AI e NFT)](#il-futuro-del-coding-e-del-creative-coding-ai-e-nft)
 
 ## Fondamenti di informatica e programmazione
 
