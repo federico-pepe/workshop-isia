@@ -177,7 +177,7 @@ Le NFT hanno svolto un ruolo fondamentale nel rendere l'arte generativa più vis
 
 ## Altre risorse e approfondimenti
 
-- [History of Computing (Wikipeida EN)](https://en.wikipedia.org/wiki/History_of_computing)
+- [History of Computing (Wikipedia EN)](https://en.wikipedia.org/wiki/History_of_computing)
 - [Computer History Museum](https://computerhistory.org)
 - [Computer History Museum (YouTube Channel)](https://www.youtube.com/@ComputerHistory)
 - [Microsoft Majorana 1, chip di quantum computing](https://news.microsoft.com/azure-quantum/)
