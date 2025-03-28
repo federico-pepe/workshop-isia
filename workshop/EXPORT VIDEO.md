@@ -16,4 +16,24 @@
 brew install ffmpeg
 ```
 
-7. Se ricevete il seguente errore: `zsh: command not found: brew`
+7. Se ricevete il seguente errore: `zsh: command not found: brew` dovete copiare e incollare questa riga nel terminale:
+
+```
+echo 'eval $(/opt/homebrew/bin/brew shellenv)' >> /Users/$USER/.zprofile
+```
+
+e premete invio (inserite la password se richiesta) e poi incollate questa riga:
+
+```
+eval $(/opt/homebrew/bin/brew shellenv)
+```
+
+e premete invio (inserite la password se richiesta)
+
+8. Se tutto è installo correttamente, rilanciate il comando
+
+```
+brew install ffmpeg
+```
+
+E attendete il completamento dell'installazione.
