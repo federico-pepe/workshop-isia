@@ -5,9 +5,13 @@ In questo repository puoi trovare esempi e risorse della lecture e del workshop 
 ## Indice
 
 - [Lecture](/lecture/LECTURE.md)
+
   Nel file LECTURE.md troverai tutti i riferimenti agli argomenti trattati durante la Lecture del 24 marzo (più qualche contenuto aggiuntivo che, per questioni di tempo, non siamo riusciti a vedere). Questa risorsa va intesa come semplice spunto di partenza.
+
 - [Workshop](/workshop/WORKSHOP.md)
+
   Nel file WORKSHOP.md troverai tutte le risorse e gli esempi che abbiamo svolto insieme o che abbiamo visto durante le cinque giornate del workshop.
+
   - [Impariamo a programmare in Processing](/workshop/start-from-here/)
     - Primitive 2D
     - Colori RGB
