@@ -16,4 +16,4 @@
 brew install ffmpeg
 ```
 
-7. Se ricevete il seguente errore: **zsh: command not found: brew**`
+7. Se ricevete il seguente errore: `zsh: command not found: brew`
