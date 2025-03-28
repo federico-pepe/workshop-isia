@@ -2,7 +2,34 @@
 
 In questa sezione troverai tutte le risorse e gli esempi visti insieme durante il workshop.
 
-(In aggiornamento)
+## Impariamo a programmare con Processing
+
+Questi sono gli esempi teorico-pratici che abbiamo visto insieme durante il workshop e che puoi trovare all'interno della cartella [start from here](/workshop/start-from-here/). Gli sketch sono numerati e in ordine.
+
+- Primitive 2D
+- Colori RGB
+- Blocchi di codice e flusso di programma: setup() e draw()
+- Variabili built-in: mouseX, mouseY, pmouseX, pmouseY, width, height
+- Eventi: mousePressed(), keyPressed()
+- Random
+- Controlli condizionali: if, else
+- Controlli condizionali: operatori logici && (AND) e || (OR)
+- Loop: while e for
+- Colori HSB
+- Creazione colori tramite algoritmo
+- Libreria Nice Color Palette
+- Array
+- Trasformazioni: translate() e rotate()
+- Animazione con sin() e tan()
+- Animazione con export video
+- Lavorare con immagini
+- Testi in Processing
+
+## Esempi
+
+Nella cartella [examples](/workshop/examples/) trovi gli esempi che abbiamo fatto insieme durante il workshop.
+
+![Uno degli esempi visti insieme durante il workshop](/workshop/examples/esempio_immagine_pixel_e_colori/esempio_immagine_pixel_e_colori.png)
 
 <!--
 
