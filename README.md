@@ -6,6 +6,21 @@ In questo repository puoi trovare esempi e risorse della lecture e del workshop 
 
 - [Lecture](/lecture/LECTURE.md)
 - [Workshop](/workshop/WORKSHOP.md)
+  - [Impariamo a programmare in Processing](/workshop/start-from-here/)
+    - Primitive 2D
+    - Colori RGB
+    - Blocchi di codice e flusso di programma: setup() e draw()
+    - Variabili built-in: mouseX, mouseY, pmouseX, pmouseY, width, height
+    - Eventi: mousePressed(), keyPressed()
+    - Random
+    - Controlli condizionali: if, else
+    - Controlli condizionali: operatori logici && (AND) e || (OR)
+    - Loop: while e for
+    - Colori HSB
+    - Creazione colori tramite algoritmo
+    - Libreria Nice Color Palette
+    - Array
+    - Trasformazioni: translate() e rotate()
 
 ## Contatti
 
