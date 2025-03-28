@@ -1,3 +1,5 @@
+![Lecture e Workshop: Processing e il Generative Design per l'Editoria](/title.png)
+
 # Lecture e Workshop: Processing e il Generative Design per l'Editoria
 
 In questo repository puoi trovare esempi e risorse della lecture e del workshop **Processing e il Generative Design per l'Editoria** curato da _Valentina Rachiele_ e tenuto da _Federico Pepe_ all'ISIA di Urbino dal 24 al 28 marzo 2025 per gli studenti del secondo anno del corso _Comunicazione e Design per l'Editoria_.
