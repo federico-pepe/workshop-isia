@@ -1,0 +1,10 @@
+These are the simple rules to follow:
+
+1. Work in HSB (hue, saturation and brightness) color space and not in RGB (red, green and blue).
+2. The secret is to consider the hue value around a circle so the hue is the angle of the wheel. The values are between 0 and 360. First of all, we have to pick a number randomly.
+3. Let’s pick saturation and brightness values randomly as well (usually between 0 and 100).
+4. Now we have our first color which is positioned at the centre of our palette.
+5. Choose another random number. This techniques works best if we pick between 0 and 180. Then we have to add and subtract this value to the original hue.
+6. Now we have the second and fourth color.
+7. Add and subtract again the last number we chose to the second and fourth color.
+8. To have perfect results, set saturation and brightness randomly for every color.

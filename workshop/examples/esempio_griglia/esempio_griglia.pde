@@ -1,3 +1,13 @@
+/*
+    Workshop ISIA: Processing e il Generative Design per l'Editoria
+    con / with Federico Pepe
+    a cura di / curated by Valentina Rachiele
+    per II anno Editoria / for 2nd year Publishing
+    24-28 Marzo 2025
+
+    Esempio: Griglia
+*/
+
 int rows = 20;
 int cols = 20;
 
