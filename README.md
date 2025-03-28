@@ -4,13 +4,13 @@ In questo repository puoi trovare esempi e risorse della lecture e del workshop 
 
 ## Indice
 
-- [Lecture](/lecture/LECTURE.md)
+- [Lecture](/lecture)
 
-  Nel file LECTURE.md troverai tutti i riferimenti agli argomenti trattati durante la Lecture del 24 marzo (più qualche contenuto aggiuntivo che, per questioni di tempo, non siamo riusciti a vedere). Questa risorsa va intesa come semplice spunto di partenza.
+  Nel file [LECTURE.md](/lecture/LECTURE.md) troverai tutti i riferimenti agli argomenti trattati durante la Lecture del 24 marzo (più qualche contenuto aggiuntivo che, per questioni di tempo, non siamo riusciti a vedere). Questa risorsa va intesa come semplice spunto di partenza.
 
-- [Workshop](/workshop/WORKSHOP.md)
+- [Workshop](/workshop)
 
-  Nel file WORKSHOP.md troverai tutte le risorse e gli esempi che abbiamo svolto insieme o che abbiamo visto durante le cinque giornate del workshop.
+  Nel file [WORKSHOP.md](/workshop/WORKSHOP.md) troverai tutte le risorse e gli esempi che abbiamo svolto insieme o che abbiamo visto durante le cinque giornate del workshop. Nella cartella troverai anche il file [EXPORT VIDEO.md](/workshop/EXPORT%20VIDEO.md) con le istruzioni per installare FFMPEG sul tuo computer Mac per poter usare la libreria "Video Export".
 
   - [Impariamo a programmare in Processing](/workshop/start-from-here/)
     - Primitive 2D
